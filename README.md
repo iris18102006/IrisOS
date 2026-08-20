@@ -170,3 +170,15 @@ Always unmount before running `lb build` again.
 - Initial build failed at `lb binary_linux-image` — `chroot/boot/vmlinuz-*` not found — caused by no `linux-image-*` package in any package list. Fixed by adding `kernel.list.chroot`.
 - `lb clean --chroot` was found to leave stage markers inconsistent, causing `chroot: cannot change root directory to 'chroot': no such directory` on next build. Full `lb clean` (no args) resolved it, but subsequently required an `auto/config` script since `.build/config` stage marker was also cleared and this project originally had no `auto/config` (raw `lb config` would have reset custom settings in `config/binary`/`config/common`).
 - Package name discrepancies caught during theming setup: `tela-icon-theme` does not exist in bookworm (kept Papirus-Dark instead); `orchis-gtk-theme` and `bibata-cursor-theme` do exist, but the Debian bookworm package versions differ from Ubuntu host-cache versions — always verify package details **inside the chroot**, not the host system's apt cache.
+
+
+
+### Where to download
+IrisOS 1.0 is live: [https://irisos-two.vercel.app/]
+Built from an empty directory. GNOME desktop, custom installer, full branding down to the boot splash.
+Not a respin. Mine, start to finish.
+
+
+
+
+
