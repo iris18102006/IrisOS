@@ -173,11 +173,16 @@ Always unmount before running `lb build` again.
 
 
 
-### Where to download
+## Where to download using the website
 IrisOS 1.0 is live: [https://irisos-two.vercel.app/]
 Built from an empty directory. GNOME desktop, custom installer, full branding down to the boot splash.
 Not a respin. Mine, start to finish.
 
+## Where to download using GitHub
+In this repo you can find "Releases"
+Go there and with just a click you have your own iso downloading immediately.
+
+<img width="1271" height="815" alt="image" src="https://github.com/user-attachments/assets/8b87444c-5c58-4825-abaf-244d2de6b838" />
 
 
 
