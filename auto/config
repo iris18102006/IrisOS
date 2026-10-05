@@ -1,0 +1,3 @@
+#!/bin/sh
+set -e
+lb config noauto --architecture amd64 -b iso-hybrid --bootloaders "syslinux grub-efi" --debian-installer none --iso-application "IrisOS Live" --iso-volume "IrisOS bookworm" "$@"

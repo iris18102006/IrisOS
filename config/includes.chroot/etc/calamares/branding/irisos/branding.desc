@@ -1,0 +1,27 @@
+---
+productName: IrisOS
+version: 1.0
+versionedName: IrisOS 1.0
+shortVersion: 1.0
+url: https://irisos.org
+supportUrl: https://github.com/irisos
+knownIssuesUrl: https://github.com/irisos
+releaseNotesUrl: https://github.com/irisos
+
+windowExpanding: normal
+windowSize: 800px, 520px
+windowPlacement: center
+
+sidebar: widget
+navigation: transparent
+
+images:
+    productLogo: "logo.png"
+    productIcon: "logo.png"
+    productWelcome: "welcome.png"
+
+style:
+   sidebarBackground: "#2c3e50"
+   sidebarText: "#ffffff"
+   sidebarTextSelect: "#2980b9"
+

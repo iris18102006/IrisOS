@@ -1,0 +1,9 @@
+NAME="IrisOS"
+VERSION="1.0"
+ID=irisos
+ID_LIKE=debian
+PRETTY_NAME="IrisOS 1.0"
+VERSION_ID="1.0"
+HOME_URL="https://irisos.org"
+SUPPORT_URL="https://github.com/irisos"
+BUG_REPORT_URL="https://github.com/irisos"

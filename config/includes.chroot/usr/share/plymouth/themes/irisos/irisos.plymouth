@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=IrisOS
+Description=Custom IrisOS Boot Splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/irisos
+ScriptFile=/usr/share/plymouth/themes/irisos/irisos.script

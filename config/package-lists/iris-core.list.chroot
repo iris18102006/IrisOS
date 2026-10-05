@@ -1,0 +1,47 @@
+# Core Desktop & Display
+gnome-core
+gnome-tweaks
+gnome-shell-extension-prefs
+neofetch
+htop
+btop
+tree
+
+# Programming & CS Tools
+build-essential
+gdb
+git
+python3
+python3-pip
+python3-venv
+gcc
+g++
+make
+cmake
+curl
+wget
+zip
+unzip
+nano
+vim
+geany
+
+# Embedded Systems & Hardware Engineering
+python3-serial
+minicom
+openocd
+avrdude
+
+# School Productivity
+firefox-esr
+libreoffice-writer
+libreoffice-calc
+pdfarranger
+evince
+flatpak
+
+# System Installer
+calamares
+calamares-settings-debian
+plymouth
+plymouth-themes
