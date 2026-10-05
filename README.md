@@ -188,3 +188,9 @@ Go there and with just a click you have your own iso downloading immediately.
 
 
 ## How it looks like
+<img width="271" height="215" alt="image" src="applications.png"/>
+<img width="271" height="215" alt="image" src="desktop.png"/>
+<img width="271" height="215" alt="image" src="terminal.png"/>
+
+
+
