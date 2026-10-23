@@ -187,6 +187,10 @@ Go there and with just a click you have your own iso downloading immediately.
 
 
 
+yet to be continued as a project
+
+
+
 ## How it looks like
 ![Desktop](screenshots/desktop.png)
 ![Applications](screenshots/applications.png)
