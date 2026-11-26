@@ -1,1 +1,1 @@
-alias neofetch='neofetch --ascii /etc/irisos-logo.txt'
+alias fetch='fastfetch --logo /etc/irisos-logo.txt'
