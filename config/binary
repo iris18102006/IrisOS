@@ -53,7 +53,7 @@ LB_BUILD_WITH_CHROOT="true"
 LB_DEBIAN_INSTALLER="none"
 
 # Set debian-installer suite
-LB_DEBIAN_INSTALLER_DISTRIBUTION="bookworm"
+LB_DEBIAN_INSTALLER_DISTRIBUTION="trixie"
 
 # Set debian-installer preseed filename/url
 LB_DEBIAN_INSTALLER_PRESEEDFILE=""
@@ -80,7 +80,7 @@ LB_ISO_PREPARER="live-build 3.0~a57-1; http://packages.qa.debian.org/live-build"
 LB_ISO_PUBLISHER="Debian Live project; http://live.debian.net/; debian-live@lists.debian.org"
 
 # Set iso volume (max 32 chars)
-LB_ISO_VOLUME="IrisOS bookworm"
+LB_ISO_VOLUME="IrisOS trixie"
 
 # Set jffs2 eraseblock size
 LB_JFFS2_ERASEBLOCK=""
