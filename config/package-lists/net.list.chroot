@@ -4,3 +4,4 @@ traceroute
 mtr-tiny
 whois
 dnsutils
+net-tools
