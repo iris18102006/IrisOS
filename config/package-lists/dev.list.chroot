@@ -7,3 +7,4 @@ cargo
 golang-go
 clang
 valgrind
+python3-dev
