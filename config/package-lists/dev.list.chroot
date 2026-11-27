@@ -5,3 +5,4 @@ default-jdk
 rustc
 cargo
 golang-go
+clang
