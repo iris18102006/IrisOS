@@ -46,7 +46,7 @@ LB_INITRAMFS="live-boot"
 LB_INITRAMFS_COMPRESSION="gzip"
 
 # Set init system
-LB_INITSYSTEM="sysvinit"
+LB_INITSYSTEM="systemd"
 
 # Set distribution mode
 LB_MODE="debian"
