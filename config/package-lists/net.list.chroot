@@ -7,3 +7,4 @@ dnsutils
 net-tools
 iperf3
 netcat-openbsd
+curl
