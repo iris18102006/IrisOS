@@ -3,3 +3,4 @@ nodejs
 npm
 default-jdk
 rustc
+cargo
