@@ -6,3 +6,4 @@ rustc
 cargo
 golang-go
 clang
+valgrind
