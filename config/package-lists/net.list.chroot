@@ -1,0 +1,10 @@
+nmap
+tcpdump
+traceroute
+mtr-tiny
+whois
+dnsutils
+net-tools
+iperf3
+netcat-openbsd
+curl
