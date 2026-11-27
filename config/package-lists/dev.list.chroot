@@ -4,3 +4,4 @@ npm
 default-jdk
 rustc
 cargo
+golang-go
