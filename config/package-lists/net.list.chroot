@@ -6,3 +6,4 @@ whois
 dnsutils
 net-tools
 iperf3
+netcat-openbsd
